@@ -5,10 +5,9 @@
 
 ![SonicArena Demo](https://github.com/yourusername/sonic-arena/raw/main/assets/sonic-arena-demo.gif)
 
-[![Status](https://img.shields.io/badge/Status-Proof%20of%20Concept-orange?style=for-the-badge&logo=rocket)](https://github.com/yourusername/sonic-arena)
-[![Blockchain](https://img.shields.io/badge/Blockchain-Sonic%20Testnet-blue?style=for-the-badge&logo=ethereum)](https://sonic.com)
+[![Status](https://img.shields.io/badge/Status-Under%20Development-yellow?style=for-the-badge&logo=rocket)](https://github.com/yourusername/sonic-arena)
+[![Blockchain](https://img.shields.io/badge/Blockchain-Sonic%20Testnet-blue?style=for-the-badge&logo=ethereum)](https://testnet.sonicscan.org/)
 [![Platform](https://img.shields.io/badge/Platform-iOS-black?style=for-the-badge&logo=apple)](https://developer.apple.com/ios/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 </div>
 
