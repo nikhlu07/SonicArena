@@ -1,5 +1,5 @@
 # ⚡ SonicArena ⚡
-*A high-velocity, move-to-earn GPS strategy game built on the Sonic Blockchain*
+*A high-velocity, move-to-earn GPS strategy game built on the idea of Sonic Blockchain*
 
 <div align="center">
 
